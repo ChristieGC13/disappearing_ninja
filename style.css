@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    outline: 1px dashed red;
+}
+
+#container {
+    width: 1000px;
+    min-height: 500px;
+    padding: 20px;
+    margin: 0px auto;
+}
+
+h1 {
+    color: black;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#ninjas {
+    margin: 20px 0px;
+}
+
+img {
+    width: 237px;
+}
+
+button {
+    background-color: seagreen;
+    color: seashell;
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+}
